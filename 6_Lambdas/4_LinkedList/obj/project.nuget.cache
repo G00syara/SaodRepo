@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BsiJgmXbos5XQV3YsNIXbOa9v51pE/y2ALD0ZD1HrmEzv73qcRjT0xRY7vGyFHtYnGKBSIW2E3eIBcg0uvmqHg==",
+  "dgSpecHash": "uzdEPNPS+BWUxEi8JgQtTzRXGt4fyOISk3Y99EfGk46uB/cTA0HxZhTQGIxy8FpPdaX0L6f1OM54OOpEECzuZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\George\\source\\repos\\6_Lambdas\\4_LinkedList\\4_LinkedList.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Администратор\\Desktop\\6_Lambdas New\\4_LinkedList\\4_LinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

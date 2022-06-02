@@ -14,49 +14,28 @@ namespace _6_Lambdas
             list.PushBack(33);
             list.PushBack(52);
             list.PushBack(124);
-            list.PushBack(1322);
+            list.PushBack(36);
             list.PushBack(11);
             PrintList(list);
 
-            list.PushBack(249);
-            PrintList(list);    
+            Console.WriteLine();
 
-            list.PushFront(75);
-            list.PushFront(78);
-            PrintList(list);
+            Console.WriteLine(list.Contains(1111));
+            Console.WriteLine(list.Contains(12));
 
-            list.PopFront();
-            list.PopFront();
-            PrintList(list);
+            Console.WriteLine(list.IndexOf(124));
+            Console.WriteLine(list.IndexOf(11));
 
-            list.PopBack();
-            list.PopBack();
-            PrintList(list);
+            Console.WriteLine();
 
-            list.Insert(2, 88);
-            PrintList(list);
+            list.forEach(Console.WriteLine); // передаем функцию которую хотим выполнить с помощью метода forEach
 
-            list.Insert(2, 55);
-            PrintList(list);
+            Console.WriteLine();
 
-            list.RemoveAt(2);
-            PrintList(list);
+            Console.WriteLine(list.Find((x) => x > 50)); // ламда-функция (которая говорит число больше или меньше 50) передается в виде параметра и определяется прямо в скобках
 
-            list.RemoveAt(2);
-            PrintList(list);
-
-            Console.WriteLine(list.Last());
-            Console.WriteLine(list.First());
-            Console.WriteLine(list.Empty());
-
-            foreach (var item in list)
-            {
-                Console.Write(item + " ");
-            }
-
-            list.Clear();
-            Console.WriteLine("\n" + list.Empty());
-
+            Console.WriteLine(list.FindIndex((x) => x > 50)); // здесь находим индекс для первого предиката 
+            Console.WriteLine(list.FindIndex((x) => x > 100));
 
         }
 
