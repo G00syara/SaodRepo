@@ -1,0 +1,14 @@
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.exe
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.deps.json
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.runtimeconfig.json
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.runtimeconfig.dev.json
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.dll
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\bin\Debug\netcoreapp3.1\4_LinkedList.pdb
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.csproj.AssemblyReference.cache
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.AssemblyInfo.cs
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.dll
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.pdb
+C:\Users\George\source\repos\4_LinkedList\4_LinkedList\obj\Debug\netcoreapp3.1\4_LinkedList.genruntimeconfig.cache
